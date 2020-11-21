@@ -7,10 +7,10 @@
 //
 #endregion
 using System.Reflection;
-[assembly: AssemblyProduct("Kooboo.CMS")]
-[assembly: AssemblyCompany("Yardi Technology Limited")]
-[assembly: AssemblyCopyright("Copyright © Yardi 2009-2015")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-[assembly: AssemblyVersion("4.5.2.0308")]
-[assembly: AssemblyFileVersion("4.5.2.0308")]
+[assembly : AssemblyProduct("Kooboo.CMS")]
+[assembly : AssemblyCompany("Yardi Technology Limited")]
+[assembly : AssemblyCopyright("Copyright © Yardi 2009-2015")]
+[assembly : AssemblyTrademark("")]
+[assembly : AssemblyCulture("")]
+[assembly : AssemblyVersion("4.5.2.0308")]
+[assembly:AssemblyFileVersion("4.5.2.0308")]
